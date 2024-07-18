@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728c3525-bcd3-473d-9b11-96a13be07b27" name="Changes" comment="ChessException and ChessPosition">
+    <list default="true" id="728c3525-bcd3-473d-9b11-96a13be07b27" name="Changes" comment="Added colors to pieces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721223832757</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added colors to pieces">
+      <option name="closed" value="true" />
+      <created>1721308551236</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721308551236</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +138,7 @@
     <MESSAGE value="Placing pieces on the board" />
     <MESSAGE value="Board Exceptions to defensive programming" />
     <MESSAGE value="ChessException and ChessPosition" />
-    <option name="LAST_COMMIT_MESSAGE" value="ChessException and ChessPosition" />
+    <MESSAGE value="Added colors to pieces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added colors to pieces" />
   </component>
 </project>
