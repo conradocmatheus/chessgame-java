@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728c3525-bcd3-473d-9b11-96a13be07b27" name="Changes" comment="Background for possible moves of a piece">
+    <list default="true" id="728c3525-bcd3-473d-9b11-96a13be07b27" name="Changes" comment="Possible moves of a King">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721407308880</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Possible moves of a King">
+      <option name="closed" value="true" />
+      <created>1721408668161</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721408668161</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +189,7 @@
     <MESSAGE value="Possible moves of a piece" />
     <MESSAGE value="Possible moves of a Rook" />
     <MESSAGE value="Background for possible moves of a piece" />
-    <option name="LAST_COMMIT_MESSAGE" value="Background for possible moves of a piece" />
+    <MESSAGE value="Possible moves of a King" />
+    <option name="LAST_COMMIT_MESSAGE" value="Possible moves of a King" />
   </component>
 </project>
