@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728c3525-bcd3-473d-9b11-96a13be07b27" name="Changes" comment="Checkmate logic working">
+    <list default="true" id="728c3525-bcd3-473d-9b11-96a13be07b27" name="Changes" comment="Piece move count">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
@@ -213,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721658063238</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Piece move count">
+      <option name="closed" value="true" />
+      <created>1721660109518</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721660109518</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,6 +242,7 @@
     <MESSAGE value="Now printing captured pieces" />
     <MESSAGE value="Check mechanic working" />
     <MESSAGE value="Checkmate logic working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checkmate logic working" />
+    <MESSAGE value="Piece move count" />
+    <option name="LAST_COMMIT_MESSAGE" value="Piece move count" />
   </component>
 </project>
