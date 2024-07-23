@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728c3525-bcd3-473d-9b11-96a13be07b27" name="Changes" comment="Castling special move">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="728c3525-bcd3-473d-9b11-96a13be07b27" name="Changes" comment="Promotion special move">
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -46,18 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Program.executor": "Run",
-    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
-    "Notification.DoNotAsk-Vcs Important Messages": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.updates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
+    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -275,11 +276,34 @@
       <option name="project" value="LOCAL" />
       <updated>1721736559407</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Castling special move">
+      <option name="closed" value="true" />
+      <created>1721736878290</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1721736878290</updated>
+    </task>
+    <task id="LOCAL-00028" summary="En passant special move">
+      <option name="closed" value="true" />
+      <created>1721736941972</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1721736941972</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Promotion special move">
+      <option name="closed" value="true" />
+      <created>1721737036580</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1721737036580</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Class Position and Program" />
     <MESSAGE value="Class Board and Piece Created" />
     <MESSAGE value="Chess layer and first board printing" />
     <MESSAGE value="Placing pieces on the board" />
@@ -303,6 +327,8 @@
     <MESSAGE value="deleted horse class" />
     <MESSAGE value="queen and pawn bugfix" />
     <MESSAGE value="Castling special move" />
-    <option name="LAST_COMMIT_MESSAGE" value="Castling special move" />
+    <MESSAGE value="En passant special move" />
+    <MESSAGE value="Promotion special move" />
+    <option name="LAST_COMMIT_MESSAGE" value="Promotion special move" />
   </component>
 </project>
